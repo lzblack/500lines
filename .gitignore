@@ -46,3 +46,5 @@ tex/web-server*
 html/content
 html/cache
 *.pid
+
+.idea/*
